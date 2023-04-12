@@ -1,7 +1,7 @@
 # main
-Instructions on how to run the website (terminal):
-~$ cd PROJEKT
-~/PROJEKT$ source venv/bin/activate
-~/PROJEKT$ python main.py
+Instructions on how to run the website (terminal): <br />
+~$ cd PROJEKT <br />
+~/PROJEKT$ source venv/bin/activate <br />
+~/PROJEKT$ python main.py <br />
 
-main.py is the file that you run in the terminal. 
+
